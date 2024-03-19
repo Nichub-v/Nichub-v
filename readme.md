@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Im an self-taught freelancer worker, but I'm looking for jobs in the professional world<br>🔭 I’m currently working on my Web Portfolio<br>🌱 I’m currently learning Native Android Development<br>💬 I'm open to any question<br>⚡ Web development since 2021
+🔧 Im an self-taught freelancer worker, but I'm looking for opportunities in the professional world<br>🔭 I’m currently working on my Web Portfolio<br>🌱 I’m currently learning Native Android Development<br>💬 I'm open to any question<br>⚡ Web development since 2021
 
 
 ## 🌐 Socials:
